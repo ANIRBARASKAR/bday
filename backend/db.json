@@ -1,0 +1,46 @@
+{
+  "studentData": [
+    {
+      "name": "Aniruddha Baraskar",
+      "mobile": "4411225588",
+      "className": "btech",
+      "id": 1
+    },
+    {
+      "name": "abhi",
+      "mobile": "5588774488",
+      "className": "btech",
+      "id": 2
+    },
+    {
+      "name": "Karan Jadhav",
+      "mobile": "9878787845",
+      "className": "BCS ",
+      "id": 3
+    },
+    {
+      "name": "Aniruddha Baraskar",
+      "mobile": "9421782016",
+      "className": "Bcs 3  year",
+      "id": 4
+    },
+    {
+      "name": "Akshay Baviskar",
+      "mobile": "7854785478",
+      "className": "Sonar",
+      "id": 5
+    },
+    {
+      "name": "Lara Shaikh",
+      "mobile": "8654787825",
+      "className": "Bca",
+      "id": 6
+    },
+    {
+      "name": "Amol Paunikar",
+      "mobile": "9658745885",
+      "className": "Mca",
+      "id": 7
+    }
+  ]
+}
